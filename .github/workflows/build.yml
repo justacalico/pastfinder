@@ -18,6 +18,14 @@ on:
         description: 'Create a versioned release from this build'
         type: boolean
         default: false
+      merge_request_id:
+        description: 'GitLab merge request IID (informational)'
+        type: string
+        default: ''
+      merge_request_url:
+        description: 'GitLab merge request URL (informational)'
+        type: string
+        default: ''
 
 permissions:
   contents: write
