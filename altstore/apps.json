@@ -2,5 +2,22 @@
   "name": "Pastfinder",
   "identifier": "com.httpanimations.pastfinder.source",
   "sourceURL": "https://httpanimations.gitlab.io/pastfinder/altstore/apps.json",
-  "apps": []
+  "apps": [
+    {
+      "name": "Pastfinder",
+      "bundleIdentifier": "com.httpanimations.pastfinder",
+      "developerName": "HttpAnimations",
+      "iconURL": "https://gitlab.com/HttpAnimations/pastfinder/-/raw/main/assets/icon/icon-1024.png",
+      "tintedIconURL": "https://gitlab.com/HttpAnimations/pastfinder/-/raw/main/assets/icon/icon-1024.png",
+      "versions": [
+        {
+          "version": "nightly",
+          "date": "2026-09-26T01:09:27Z",
+          "downloadURL": "https://gitlab.com/api/v4/projects/86917427/packages/generic/release-assets/nightly/pastfinder-ios-arm64-unsigned.ipa",
+          "size": 7202944,
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ]
 }
