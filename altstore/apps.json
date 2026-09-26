@@ -11,9 +11,9 @@
       "tintedIconURL": "https://gitlab.com/HttpAnimations/pastfinder/-/raw/main/assets/icon/icon-1024.png",
       "versions": [
         {
-          "version": "nightly",
-          "date": "2026-09-26T01:09:27Z",
-          "downloadURL": "https://gitlab.com/api/v4/projects/86917427/packages/generic/release-assets/nightly/pastfinder-ios-arm64-unsigned.ipa",
+          "version": "0.1.0",
+          "date": "2026-09-26T01:20:54Z",
+          "downloadURL": "https://gitlab.com/api/v4/projects/86917427/packages/generic/release-assets/v0.1.0/pastfinder-ios-arm64-unsigned.ipa",
           "size": 7202944,
           "minOSVersion": "15.0"
         }
