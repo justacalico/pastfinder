@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [v0.1.1](https://gitlab.com/HttpAnimations/pastfinder/compare/03b54bf3761ed7b92bcc11393b9e6e5848aada2d..v0.1.1) - 2026-09-26
+#### Bug Fixes
+- 给 cocogitto 标签加 v 前缀 - ([9d7e2e7](https://gitlab.com/HttpAnimations/pastfinder/commit/9d7e2e72321207e58ef71ece9bb7f7c288c76c4a)) - HttpAnimations
+#### Miscellaneous Chores
+- 更新 AltStore 源 - ([24585d3](https://gitlab.com/HttpAnimations/pastfinder/commit/24585d3fd1e327df7a16ae4bf3c82607449213cb)) - GitLab CI
+- 更新 AltStore 源 - ([03b54bf](https://gitlab.com/HttpAnimations/pastfinder/commit/03b54bf3761ed7b92bcc11393b9e6e5848aada2d)) - GitLab CI
+
+- - -
+
 ## [0.1.0](https://gitlab.com/HttpAnimations/pastfinder/compare/9aa4f576b4316109b4128761aa039663965fe403..0.1.0) - 2026-09-26
 #### Features
 - 安卓发布签名支持 - ([9d96f13](https://gitlab.com/HttpAnimations/pastfinder/commit/9d96f1373941baf4a34bf451a82d2fa41ada6374)) - HttpAnimations
