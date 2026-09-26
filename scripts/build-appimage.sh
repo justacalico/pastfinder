@@ -40,4 +40,5 @@ else
   APPIMAGETOOL=appimagetool
 fi
 
-ARCH=x86_64 "$APPIMAGETOOL" "$APPDIR" "$OUT"
+# GitHub runners have no FUSE, so run appimagetool in extract-and-run mode.
+ARCH=x86_64 "$APPIMAGETOOL" --appimage-extract-and-run "$APPDIR" "$OUT"
